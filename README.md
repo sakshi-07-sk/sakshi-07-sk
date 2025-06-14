@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-student
+A passionate beginner diving into the world of technology. I'm currently learning Python, getting curious about artificial intelligence and how it shapes our future.
 
 
 ## 🌐 Socials:
